@@ -1,3 +1,2 @@
-# Projelerim Public
-Tarihler arası gün ve saat farkı proğramı
+Açıklama
 Zıp den çıkarıp exe. uygulamasını çalıştırın.
