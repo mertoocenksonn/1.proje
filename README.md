@@ -1,2 +1,2 @@
 # Açıklama
-Zıp den çıkarıp exe. uygulamasını çalıştırın.
+Zıp den çıkarıp .exe uygulamasını çalıştırın.
